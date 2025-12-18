@@ -20,3 +20,6 @@ Run the project directly in Bolt.new or open `index.html` in a web browser.
 
 ## Credits
 Developed for the MIS2003 Vibe Coding assignment.
+## Screenshot
+
+![Pomodoro Timer](images/screenshot.png)
